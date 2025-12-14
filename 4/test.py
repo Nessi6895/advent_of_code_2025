@@ -1,0 +1,1 @@
+print("asdsd"[1])
