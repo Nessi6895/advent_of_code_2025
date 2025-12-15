@@ -1,9 +1,5 @@
-from ast import Dict
-
-
 data = []
-
-cache: dict[tuple[int, int], int] = {}
+cache = {}
 
 def timelines_from_point(x, y):
     global cache

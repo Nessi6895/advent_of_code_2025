@@ -1,5 +1,4 @@
 
-# Online Python - IDE, Editor, Compiler, Interpreter
 input = 'input.txt'
 position = 50
 clicks = 0
