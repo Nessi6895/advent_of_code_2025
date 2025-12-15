@@ -18,8 +18,6 @@ with open('input.txt') as f:
             result=n0*n1*n2*n3
         else:
             result=n0+n1+n2+n3
-        if result < 0:
-            print("FUCK")
         sum+=result
     print(sum)
 
